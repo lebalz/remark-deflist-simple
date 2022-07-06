@@ -1,0 +1,12 @@
+{
+  "name": "remark-deflist-simple",
+  "version": "1.0.0",
+  "description": "remark plugin for wiki defilist syntax",
+  "main": "lib/index.js",
+  "author": "Balthasar Hofer <lebalz@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "unist-util-visit": "^2.0.3"
+  }
+}
